@@ -14,8 +14,8 @@ I am an aspiring Software and AI Engineer from Bangladesh, passionate about brid
 * **Interests:** Data Science, Computer Vision, Prompt Engineering
 
 ### 📫 Let's Connect!
-- **Email:** [আপনার ইমেইল অ্যাড্রেস দিন]
-- **LinkedIn:** [আপনার লিংকডইন প্রোফাইলের লিংক দিন]
+- **Email:** srhossain327@gmail.com
+- **WhatsApp:** +880 1327436000
 
 ---
 ⭐️ *Writing code that solves problems and poetry that touches the heart.*
