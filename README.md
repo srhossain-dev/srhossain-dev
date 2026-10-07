@@ -4,7 +4,7 @@ I am a recent HSC graduate and a passionate tech enthusiast from Bangladesh. I a
 ### 🚀 About Me
 - 🔭 **Focus Areas:** Exploring Python, Artificial Intelligence, and Generative AI to build smart, automated solutions.
 - 🎨 **Creative Edge:** I combine logic with design, utilizing tools like Adobe Photoshop, Illustrator, and After Effects for digital content creation and motion graphics.
-- 🌍 **Languages:** Multilingual communicator. Fluent in Bengali and English (IELTS 6.5), with intermediate proficiency in German (B1 - Goethe-Institut).
+- 🌍 **Languages:** Multilingual communicator. Fluent in Bengali and English, with intermediate proficiency in German (B1 - Goethe-Institut). Also know many Languages such as Haryanvi, Hindi, Urdu, Punjabi.
 - ⚡ **Beyond the Screen:** My background in cadet training and marathon running has taught me that consistency and discipline are the keys to success—traits I apply to my coding every day. To unwind, I maintain a strict fitness routine and enjoy writing Hindi and Urdu Shayari.
 
 ### 🛠️ Tech Stack & Tools
