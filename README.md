@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am an aspiring Software and AI Engineer from Bangladesh, passionate about bridging the gap between intelligent code and digital creativity. I am currently preparing for my undergraduate studies, focusing on Artificial Intelligence and software development.
-
+I am a recent HSC graduate and a passionate tech enthusiast from Bangladesh. I am currently preparing for my higher studies and diving deep into the fascinating world of Artificial Intelligence and software development.
 ### 🚀 About Me
 - 🔭 **Focus Areas:** Exploring Python, Artificial Intelligence, and Generative AI to build smart, automated solutions.
 - 🎨 **Creative Edge:** I combine logic with design, utilizing tools like Adobe Photoshop, Illustrator, and After Effects for digital content creation and motion graphics.
